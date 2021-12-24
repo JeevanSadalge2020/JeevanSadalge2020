@@ -8,13 +8,11 @@
 </a>
 
 <!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
+- :seedling: &nbsp;I’m currently pursuing a MERN stack course at **[Coding Ninjas]**
 <!-- - :writing_hand: &nbsp;I regulary write article on my **[blog]** -->
 - :speech_balloon: &nbsp;I like to explore about **JavaScript**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
-
 <br>
 
 <h2 align="left" id="jeevansadalge-tech">Favorite Tech</h2>
@@ -54,9 +52,7 @@
       </a>
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="#jeevansadalge-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
@@ -105,10 +101,7 @@
       </a>
       <br>Redux
     </td>
-   
-  </tr>
-  <tr>
-           <td align="center" width="96"> 
+   <td align="center" width="96"> 
       <a href="#jeevansadalge-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
@@ -129,24 +122,6 @@
   </tr>
 </table>
 
-## ✍️ Latest Articles 
-<!-- BLOG-POST-LIST:START -->
-- [How to Add Custom Networks To MetaMask](https://blog.suhailkakar.com/add-custom-networks-to-metamask)
-- [Web 3.0 Terms and Their Definitions in Plain English](https://blog.suhailkakar.com/web-30-terms-and-their-definitions-in-plain-english)
-- [How To Solve Captcha in JavaScript Using 2Captcha](https://blog.suhailkakar.com/how-to-solve-captcha-in-javascript-using-2captcha)
-- [What Are DApps: A Complete Guide To Decentralized Applications](https://blog.suhailkakar.com/what-are-dapps-a-complete-guide-to-decentralized-applications)
-- [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
-<!-- BLOG-POST-LIST:END -->
-
-
-[linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
-[twitter]: https://twitter.com/SuhailKakar "Twitter"
-[blog]: http://blog.suhailkakar.com/ "Blog"
-[Solidity]: https://soliditylang.org/ "Solidity"
-
-
-
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
-
-
-
+[linkedin]: https://www.linkedin.com/in/jeevan-sadalge-ab6660214/ "LinkedIn"
+[twitter]: https://twitter.com/JeevanWebDev "Twitter"
+[Coding Ninjas]: https://www.codingninjas.com/
