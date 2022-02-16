@@ -1,6 +1,6 @@
 
 <h1 align="left" id="jeevansadalge-title">:wave: Hello there! I'm Jeevan Sadalge</h1>
-<h3 align="left">I am a Full Stack Developer trainee at Coding Ninjas </h3>
+<h3 align="left">I am a JavaScript Developer working at AVRL. </h3>
 
 
 <a href="#jeevansadalge-title">
